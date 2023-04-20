@@ -1,0 +1,4 @@
+#Thu Apr 20 10:52:08 COT 2023
+base.0=V\:\\ESPOCH\\CONCURSO_NACIONAL\\ARGON_APP\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
